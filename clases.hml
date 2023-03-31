@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Selectores, pseudo-clases y pseudo-elementos en CSS</title>
+	<link rel="stylesheet" type="text/css" href="clases.css">
+</head>
+<body>
+	<button class="boton">Pasa por encima</button>
+</body>
+</html>
